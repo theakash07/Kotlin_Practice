@@ -8,6 +8,7 @@ Welcome to my Kotlin practice repository. This repository contains various Kotli
 |-----|-----------|-------------|
 | 1   | [BasicRowandColumn](./code/main.kt) | [Design 1](./Design/Design1.png) |
 | 2   | [StylingTextandaddedFonts.kt](./code/anotherFile.kt) | [Design 2](./Design/Design2.png) |
+| 3   | [StateChange.kt](./code/main.kt) | [Design 3](./)|
 
 
 ## Getting Started with Kotlin
