@@ -6,9 +6,9 @@ Welcome to my Kotlin practice repository. This repository contains various Kotli
 
 | #   | Code File | Design Link |
 |-----|-----------|-------------|
-| 1   | [BasicRowandColumn](./code/main.kt) | [Design 1](./Design/Design1.png) |
-| 2   | [StylingTextandaddedFonts.kt](./code/anotherFile.kt) | [Design 2](./Design/Design2.png) |
-| 3   | [StateChange.kt](./code/main.kt) | [Design 3](./)|
+| 1   | [BasicRowandColumn](./kotine_practice/BasicRowandColumn) | [Design 1](./Design/Design1.png) |
+| 2   | [StylingTextandaddedFonts.kt](./kotine_practice/StateChange.kt) | [Design 2](./Design/Design2.png) |
+| 3   | [StateChange.kt](./kotine_practice/StylingTextandaddedFonts.kt) | [Design 3](./)|
 
 
 ## Getting Started with Kotlin
