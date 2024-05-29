@@ -6,8 +6,8 @@ Welcome to my Kotlin practice repository. This repository contains various Kotli
 
 | #   | Code File | Design Link |
 |-----|-----------|-------------|
-| 1   | [Main Kotlin File](./code/main.kt) | ![Design 1](./Design/Design1.png) |
-| 2   | [Another Kotlin File](./code/anotherFile.kt) | ![Design 2](./Design/Design2.png) |
+| 1   | [Main Kotlin File](./code/main.kt) | [Design 1](./Design/Design1.png) |
+| 2   | [Another Kotlin File](./code/anotherFile.kt) | [Design 2](./Design/Design2.png) |
 
 ## Repository Structure
 my-kotlin-practice/
