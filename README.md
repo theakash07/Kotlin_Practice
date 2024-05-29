@@ -6,24 +6,9 @@ Welcome to my Kotlin practice repository. This repository contains various Kotli
 
 | #   | Code File | Design Link |
 |-----|-----------|-------------|
-| 1   | [Main Kotlin File](./code/main.kt) | [Design 1](./Design/Design1.png) |
-| 2   | [Another Kotlin File](./code/anotherFile.kt) | [Design 2](./Design/Design2.png) |
+| 1   | [BasicRowandColumn](./code/main.kt) | [Design 1](./Design/Design1.png) |
+| 2   | [StylingTextandaddedFonts.kt](./code/anotherFile.kt) | [Design 2](./Design/Design2.png) |
 
-## Repository Structure
-my-kotlin-practice/
-├── code/
-│ ├── main.kt
-│ └── anotherFile.kt
-├── designs/
-│ ├── Design1.png
-│ └── Design2.png
-└── README.md
-
-## How to Use This Repository
-
-1. **Browse Code**: Navigate to the `code` directory to explore the Kotlin files.
-2. **View Designs**: Check out the `designs` directory to see the design images.
-3. **Linking Code to Design**: Each design section in this README links to the relevant Kotlin code file.
 
 ## Getting Started with Kotlin
 
