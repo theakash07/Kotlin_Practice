@@ -12,12 +12,12 @@ Here are some of the Kotlin code files included in this repository:
 ## Design Files
 
 ### Design 1
-![Design 1](./Design/Design2.png)
+![Design 1](./Design/Design1.png)
 - Associated Code: [Main Kotlin File](./kotine_practice/BasicRowandColumn)
 
 ### Design 2
 ![Design 2](./Design/Design2.png)
-- Associated Code: [Another Kotlin File](./code/anotherFile.kt)
+- Associated Code: [Another Kotlin File](./kotine_practice/StylingTextandaddedFonts.kt)
 
 ## Repository Structure
 
