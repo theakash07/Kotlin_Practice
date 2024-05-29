@@ -12,7 +12,7 @@ Here are some of the Kotlin code files included in this repository:
 ## Design Files
 
 ### Design 1
-![Design 1](.Design/Screenshot 2024-05-29 144801.png)
+![Design 1](./Design/Screenshot 2024-05-29 144801.png)
 - Associated Code: [Main Kotlin File](./code/main.kt)
 
 ### Design 2
